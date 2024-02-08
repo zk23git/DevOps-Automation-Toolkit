@@ -14,7 +14,7 @@ The DevOps Automation Toolkit repository aims to streamline and simplify DevOps 
 
 The repository is structured as follows:
 
-- `deployments/`: This directory contains deployment scripts and templates for different deployment environments and technologies. It includes scripts for container orchestration platforms, serverless architectures, virtual machines, and more.
+- `deployments/`: This directory contains deployment scripts and templates for different deployment environments and technologies. It includes scror container orchestration platforms, serverless architectures, virtual machines, and more.
 - `infrastructure-as-code/`: Here, you will find infrastructure-as-code (IaC) templates that allow you to define and provision infrastructure resources using code. These templates are compatible with popular IaC tools such as Terraform, CloudFormation, or Ansible.
 - `ci-cd/`: This directory includes continuous integration/continuous deployment (CI/CD) pipelines and associated configuration files. You will find example configurations for various CI/CD tools such as Jenkins, GitLab CI/CD, or Travis CI.
 - `config-management/`: Here, you will find configuration management utilities and scripts for managing system configurations, application settings, and environment variables. It includes tools like Ansible, Puppet, or Chef.
