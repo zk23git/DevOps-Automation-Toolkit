@@ -8,7 +8,7 @@ Welcome to the DevOps Automation Toolkit repository! This repository is dedicate
 
 ## Overview
 
-The DevOps Automation Toolkit repository aims to streamline and simplify DevOps processes by providing ready-to-use automation solutions. It serves as a valuable resource for DevOps engineers, system administrators, and developers who are involved in building, deploying, and managing software applications and infrastructure.
+The DevOps Automation Toolkit repository aims to streamline and simplify DevOps processes by providing re-use automation solutions. It serves as a valuable resource for DevOps engineers, system administrators, and developers who are involved in building, deploying, and managing software applications and infrastructure.
 
 ## Contents
 
